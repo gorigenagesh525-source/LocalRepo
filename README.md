@@ -1,2 +1,2 @@
 #LocalRepo
-This is my Local Repositary
+This is my Local Repo
